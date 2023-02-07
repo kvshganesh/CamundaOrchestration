@@ -1,0 +1,9 @@
+camunda.bpm:
+  admin-user:
+    id: demo
+    password: demo
+  filter:
+    create: All tasks
+spring:
+  main:
+    allow-circular-references: true 
